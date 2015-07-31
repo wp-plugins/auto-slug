@@ -28,7 +28,7 @@ or
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.jpg
+1. Plugin in action. Write title and see how %postname% in permalink changes. screenshot-1.jpg
 
 == Frequently Asked Questions ==
 
