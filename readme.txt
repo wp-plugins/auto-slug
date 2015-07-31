@@ -11,6 +11,15 @@ This plugin generates unicode slug from title You're writing and replaces %postn
 
 Simply write title to a post and You'll see that it automagicaly makes slug from title.
 
+History:
+I was searching for plugin that will ease the process of making posts.
+Writing same thing twice (first title, second slug for title in permalink) is like a hell when You've to write many posts a day.
+So decided to make plugin myself (because have not found plugin that does 1 think simple work without loading site with heavy functions). 
+
+Result: pretty simple and useful plugin. 
+
+Hope You'll enjoy it.
+
 == Installation ==
 
 1. Upload the `/auto-slug` folder to the `/wp-content/plugins/` directory
