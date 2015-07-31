@@ -14,7 +14,7 @@ Simply write title to a post and You'll see that it automagicaly makes slug from
 History:
 I was searching for plugin that will ease the process of making posts.
 Writing same thing twice (first title, second slug for title in permalink) is like a hell when You've to write many posts a day.
-So decided to make plugin myself (because have not found plugin that does 1 think simple work without loading site with heavy functions). 
+So decided to make the plugin that will do it automatically.
 
 Result: pretty simple and useful plugin. 
 
