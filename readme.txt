@@ -26,6 +26,10 @@ or
 1. go to /wp-admin/plugin-install.php?tab=upload
 2. upload auto-slug.zip
 
+== Screenshots ==
+
+1. /assets/screenshot.jpg
+
 == Frequently Asked Questions ==
 
 Questions/Comments/Bugs? mail: num8eraj@gmail.com, skype: anarjafarov
