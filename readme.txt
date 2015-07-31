@@ -28,8 +28,7 @@ or
 
 == Screenshots ==
 
-1. /assets/screenshot.jpg
-2. /trunk/1.0/screenshot.jpg
+1. This screen shot description corresponds to screenshot-1.jpg
 
 == Frequently Asked Questions ==
 
