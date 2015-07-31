@@ -7,11 +7,6 @@ Stable tag: 1
 
 This plugin generates unicode slug from title You're writing and replaces %postname% part of permalink.
 
-For example:
-
-Title: test title тестовый заголовок test başlıq
-Permalink: http://hostname.com/test-title-тестовый-заголовок-test-başlıq
-
 == Description ==
 
 Simply write title to a post and You'll see that it automagicaly makes slug from title.
