@@ -4,6 +4,8 @@ Tags: auto, auto-slug, slug, unicode, permalink, regenerate, generate, post, pos
 Requires at least: 3.0
 Tested up to: 4.3.2
 Stable tag: 1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin generates unicode slug from title You're writing and replaces %postname% part of permalink.
 
