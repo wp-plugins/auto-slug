@@ -22,6 +22,9 @@ Result: pretty simple and useful plugin.
 
 Hope You'll enjoy it.
 
+Sincerely,
+Anar Jafarov (a.k.a. num8er)
+
 == Installation ==
 
 1. Upload the `/auto-slug` folder to the `/wp-content/plugins/` directory
